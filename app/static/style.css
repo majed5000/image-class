@@ -10,7 +10,7 @@ body {
     margin: auto;
     padding: 10px 50px;
     text-align: center;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .title {
@@ -55,7 +55,7 @@ button.analyze-button {
     border: solid 1px #40b9a5;
     border-radius: 3px;
     background-color: #40b9a5;
-    font-size: 16px;
+    font-size: 18px;
     color: #ffffff;
 }
 
